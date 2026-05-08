@@ -1,0 +1,916 @@
+ICD9_Code,Description,Category,Broad_Category
+10,Tuberculosis,Infectious & Parasitic Diseases,Infectious & Parasitic
+11,Tuberculosis,Infectious & Parasitic Diseases,Infectious & Parasitic
+110,Other spirochetal diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+111,Other spirochetal diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+112,Other spirochetal diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+114,Other spirochetal diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+115,Other spirochetal diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+117,Other spirochetal diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+122,Mycoses (fungal infections),Infectious & Parasitic Diseases,Infectious & Parasitic
+123,Mycoses (fungal infections),Infectious & Parasitic Diseases,Infectious & Parasitic
+130,Helminthiases and other infectious/parasitic diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+131,Helminthiases and other infectious/parasitic diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+132,Helminthiases and other infectious/parasitic diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+133,Helminthiases and other infectious/parasitic diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+135,Helminthiases and other infectious/parasitic diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+136,Helminthiases and other infectious/parasitic diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+137,Helminthiases and other infectious/parasitic diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+138,Helminthiases and other infectious/parasitic diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+139,Helminthiases and other infectious/parasitic diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+14,Tuberculosis,Infectious & Parasitic Diseases,Infectious & Parasitic
+140,"Malignant neoplasm of lip, oral cavity, pharynx",Neoplasms,Neoplasms
+141,"Malignant neoplasm of lip, oral cavity, pharynx",Neoplasms,Neoplasms
+142,"Malignant neoplasm of lip, oral cavity, pharynx",Neoplasms,Neoplasms
+143,"Malignant neoplasm of lip, oral cavity, pharynx",Neoplasms,Neoplasms
+145,"Malignant neoplasm of lip, oral cavity, pharynx",Neoplasms,Neoplasms
+146,"Malignant neoplasm of lip, oral cavity, pharynx",Neoplasms,Neoplasms
+147,"Malignant neoplasm of lip, oral cavity, pharynx",Neoplasms,Neoplasms
+148,"Malignant neoplasm of lip, oral cavity, pharynx",Neoplasms,Neoplasms
+149,"Malignant neoplasm of lip, oral cavity, pharynx",Neoplasms,Neoplasms
+150,"Malignant neoplasm of lip, oral cavity, pharynx",Neoplasms,Neoplasms
+151,"Malignant neoplasm of lip, oral cavity, pharynx",Neoplasms,Neoplasms
+152,"Malignant neoplasm of lip, oral cavity, pharynx",Neoplasms,Neoplasms
+153,"Malignant neoplasm of lip, oral cavity, pharynx",Neoplasms,Neoplasms
+154,"Malignant neoplasm of lip, oral cavity, pharynx",Neoplasms,Neoplasms
+155,"Malignant neoplasm of lip, oral cavity, pharynx",Neoplasms,Neoplasms
+156,"Malignant neoplasm of lip, oral cavity, pharynx",Neoplasms,Neoplasms
+157,"Malignant neoplasm of lip, oral cavity, pharynx",Neoplasms,Neoplasms
+158,"Malignant neoplasm of lip, oral cavity, pharynx",Neoplasms,Neoplasms
+160,Malignant neoplasm of digestive organs and peritoneum,Neoplasms,Neoplasms
+161,Malignant neoplasm of digestive organs and peritoneum,Neoplasms,Neoplasms
+162,Malignant neoplasm of digestive organs and peritoneum,Neoplasms,Neoplasms
+163,Malignant neoplasm of digestive organs and peritoneum,Neoplasms,Neoplasms
+164,Malignant neoplasm of digestive organs and peritoneum,Neoplasms,Neoplasms
+17,Tuberculosis,Infectious & Parasitic Diseases,Infectious & Parasitic
+170,Malignant neoplasm of respiratory and thoracic organs,Neoplasms,Neoplasms
+171,Malignant neoplasm of respiratory and thoracic organs,Neoplasms,Neoplasms
+172,Malignant neoplasm of respiratory and thoracic organs,Neoplasms,Neoplasms
+173,Malignant neoplasm of respiratory and thoracic organs,Neoplasms,Neoplasms
+174,Malignant neoplasm of respiratory and thoracic organs,Neoplasms,Neoplasms
+175,Malignant neoplasm of respiratory and thoracic organs,Neoplasms,Neoplasms
+179,"Malignant neoplasm of bone, connective tissue, skin, breast",Neoplasms,Neoplasms
+180,"Malignant neoplasm of bone, connective tissue, skin, breast",Neoplasms,Neoplasms
+182,"Malignant neoplasm of bone, connective tissue, skin, breast",Neoplasms,Neoplasms
+183,"Malignant neoplasm of bone, connective tissue, skin, breast",Neoplasms,Neoplasms
+184,"Malignant neoplasm of bone, connective tissue, skin, breast",Neoplasms,Neoplasms
+185,"Malignant neoplasm of bone, connective tissue, skin, breast",Neoplasms,Neoplasms
+186,"Malignant neoplasm of bone, connective tissue, skin, breast",Neoplasms,Neoplasms
+187,"Malignant neoplasm of bone, connective tissue, skin, breast",Neoplasms,Neoplasms
+188,"Malignant neoplasm of bone, connective tissue, skin, breast",Neoplasms,Neoplasms
+189,"Malignant neoplasm of bone, connective tissue, skin, breast",Neoplasms,Neoplasms
+191,"Malignant neoplasm of bone, connective tissue, skin, breast",Neoplasms,Neoplasms
+192,"Malignant neoplasm of bone, connective tissue, skin, breast",Neoplasms,Neoplasms
+193,"Malignant neoplasm of bone, connective tissue, skin, breast",Neoplasms,Neoplasms
+194,"Malignant neoplasm of bone, connective tissue, skin, breast",Neoplasms,Neoplasms
+195,"Malignant neoplasm of bone, connective tissue, skin, breast",Neoplasms,Neoplasms
+196,Malignant neoplasm of genitourinary organs,Neoplasms,Neoplasms
+197,Malignant neoplasm of genitourinary organs,Neoplasms,Neoplasms
+198,Malignant neoplasm of genitourinary organs,Neoplasms,Neoplasms
+199,Malignant neoplasm of genitourinary organs,Neoplasms,Neoplasms
+200,Malignant neoplasm of lymphatic/hematopoietic tissue and other sites,Neoplasms,Neoplasms
+201,Malignant neoplasm of lymphatic/hematopoietic tissue and other sites,Neoplasms,Neoplasms
+202,Malignant neoplasm of lymphatic/hematopoietic tissue and other sites,Neoplasms,Neoplasms
+203,Malignant neoplasm of lymphatic/hematopoietic tissue and other sites,Neoplasms,Neoplasms
+204,Malignant neoplasm of lymphatic/hematopoietic tissue and other sites,Neoplasms,Neoplasms
+205,Malignant neoplasm of lymphatic/hematopoietic tissue and other sites,Neoplasms,Neoplasms
+207,Malignant neoplasm of lymphatic/hematopoietic tissue and other sites,Neoplasms,Neoplasms
+208,Malignant neoplasm of lymphatic/hematopoietic tissue and other sites,Neoplasms,Neoplasms
+210,Benign neoplasms,Neoplasms,Neoplasms
+211,Benign neoplasms,Neoplasms,Neoplasms
+212,Benign neoplasms,Neoplasms,Neoplasms
+214,Benign neoplasms,Neoplasms,Neoplasms
+215,Benign neoplasms,Neoplasms,Neoplasms
+216,Benign neoplasms,Neoplasms,Neoplasms
+217,Benign neoplasms,Neoplasms,Neoplasms
+218,Benign neoplasms,Neoplasms,Neoplasms
+219,Benign neoplasms,Neoplasms,Neoplasms
+220,Benign neoplasms,Neoplasms,Neoplasms
+223,Benign neoplasms,Neoplasms,Neoplasms
+225,Benign neoplasms,Neoplasms,Neoplasms
+226,Benign neoplasms,Neoplasms,Neoplasms
+227,Benign neoplasms,Neoplasms,Neoplasms
+228,Benign neoplasms,Neoplasms,Neoplasms
+229,Benign neoplasms,Neoplasms,Neoplasms
+23,Zoonotic bacterial diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+230,Carcinoma in situ,Neoplasms,Neoplasms
+232,Carcinoma in situ,Neoplasms,Neoplasms
+233,Carcinoma in situ,Neoplasms,Neoplasms
+235,Neoplasm of uncertain behavior or unspecified,Neoplasms,Neoplasms
+236,Neoplasm of uncertain behavior or unspecified,Neoplasms,Neoplasms
+237,Neoplasm of uncertain behavior or unspecified,Neoplasms,Neoplasms
+238,Neoplasm of uncertain behavior or unspecified,Neoplasms,Neoplasms
+239,Neoplasm of uncertain behavior or unspecified,Neoplasms,Neoplasms
+240,Disorders of thyroid gland,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+241,Disorders of thyroid gland,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+242,Disorders of thyroid gland,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+243,Disorders of thyroid gland,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+244,Disorders of thyroid gland,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+245,Disorders of thyroid gland,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+246,Diabetes mellitus,Diabetes Mellitus,Diabetes Mellitus
+250,"Diabetes mellitus, unspecified type and complication",Diabetes Mellitus,Diabetes Mellitus
+250.01,"Diabetes mellitus without complication, type I",Diabetes Mellitus,Diabetes Mellitus
+250.02,"Diabetes mellitus without complication, type II uncontrolled",Diabetes Mellitus,Diabetes Mellitus
+250.03,"Diabetes mellitus without complication, type I uncontrolled",Diabetes Mellitus,Diabetes Mellitus
+250.1,Diabetes with ketoacidosis,Diabetes Mellitus,Diabetes Mellitus
+250.11,"Diabetes with ketoacidosis, type I",Diabetes Mellitus,Diabetes Mellitus
+250.12,"Diabetes with ketoacidosis, type II uncontrolled",Diabetes Mellitus,Diabetes Mellitus
+250.13,"Diabetes with ketoacidosis, type I uncontrolled",Diabetes Mellitus,Diabetes Mellitus
+250.2,Diabetes with hyperosmolarity,Diabetes Mellitus,Diabetes Mellitus
+250.21,"Diabetes with hyperosmolarity, type I",Diabetes Mellitus,Diabetes Mellitus
+250.22,Diabetes mellitus,Diabetes Mellitus,Diabetes Mellitus
+250.23,Diabetes mellitus,Diabetes Mellitus,Diabetes Mellitus
+250.3,Diabetes with other coma,Diabetes Mellitus,Diabetes Mellitus
+250.31,"Diabetes with other coma, type I",Diabetes Mellitus,Diabetes Mellitus
+250.32,Diabetes mellitus,Diabetes Mellitus,Diabetes Mellitus
+250.33,Diabetes mellitus,Diabetes Mellitus,Diabetes Mellitus
+250.4,Diabetes with renal manifestations,Diabetes Mellitus,Diabetes Mellitus
+250.41,"Diabetes with renal manifestations, type I",Diabetes Mellitus,Diabetes Mellitus
+250.42,"Diabetes with renal manifestations, type II uncontrolled",Diabetes Mellitus,Diabetes Mellitus
+250.43,"Diabetes with renal manifestations, type I uncontrolled",Diabetes Mellitus,Diabetes Mellitus
+250.5,Diabetes with ophthalmic manifestations,Diabetes Mellitus,Diabetes Mellitus
+250.51,"Diabetes with ophthalmic manifestations, type I",Diabetes Mellitus,Diabetes Mellitus
+250.52,"Diabetes with ophthalmic manifestations, type II uncontrolled",Diabetes Mellitus,Diabetes Mellitus
+250.53,Diabetes mellitus,Diabetes Mellitus,Diabetes Mellitus
+250.6,Diabetes with neurological manifestations,Diabetes Mellitus,Diabetes Mellitus
+250.7,Diabetes with peripheral circulatory disorders,Diabetes Mellitus,Diabetes Mellitus
+250.8,Diabetes with other specified manifestations,Diabetes Mellitus,Diabetes Mellitus
+250.81,"Diabetes with other specified manifestations, type I",Diabetes Mellitus,Diabetes Mellitus
+250.82,"Diabetes with other specified manifestations, type II uncontrolled",Diabetes Mellitus,Diabetes Mellitus
+250.83,"Diabetes with other specified manifestations, type I uncontrolled",Diabetes Mellitus,Diabetes Mellitus
+250.9,Diabetes with unspecified complication,Diabetes Mellitus,Diabetes Mellitus
+250.91,Diabetes mellitus,Diabetes Mellitus,Diabetes Mellitus
+250.92,Diabetes mellitus,Diabetes Mellitus,Diabetes Mellitus
+250.93,Diabetes mellitus,Diabetes Mellitus,Diabetes Mellitus
+251,Other disorders of pancreatic internal secretion,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+252,Other disorders of pancreatic internal secretion,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+253,Other disorders of pancreatic internal secretion,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+255,Other disorders of pancreatic internal secretion,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+256,Other disorders of pancreatic internal secretion,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+258,Other disorders of pancreatic internal secretion,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+259,Other disorders of pancreatic internal secretion,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+260,Nutritional deficiencies,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+261,Nutritional deficiencies,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+262,Nutritional deficiencies,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+263,Nutritional deficiencies,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+265,Nutritional deficiencies,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+266,Nutritional deficiencies,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+268,Nutritional deficiencies,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+269,Nutritional deficiencies,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+27,Zoonotic bacterial diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+270,Other metabolic and immunity disorders,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+271,Other metabolic and immunity disorders,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+272,Other metabolic and immunity disorders,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+273,Other metabolic and immunity disorders,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+274,Other metabolic and immunity disorders,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+275,Other metabolic and immunity disorders,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+276,"Disorders of fluid, electrolyte, and acid-base balance","Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+277,Other metabolic and immunity disorders,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+278,Other metabolic and immunity disorders,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+279,Other metabolic and immunity disorders,"Endocrine, Nutritional & Metabolic",Endocrine & Metabolic
+280,Anemia,Blood & Blood-Forming Organs,Circulatory & Blood
+281,Anemia,Blood & Blood-Forming Organs,Circulatory & Blood
+282,Anemia,Blood & Blood-Forming Organs,Circulatory & Blood
+283,Anemia,Blood & Blood-Forming Organs,Circulatory & Blood
+284,Anemia,Blood & Blood-Forming Organs,Circulatory & Blood
+285,Coagulation defects and other blood disorders,Blood & Blood-Forming Organs,Circulatory & Blood
+286,Coagulation defects and other blood disorders,Blood & Blood-Forming Organs,Circulatory & Blood
+287,Coagulation defects and other blood disorders,Blood & Blood-Forming Organs,Circulatory & Blood
+288,Coagulation defects and other blood disorders,Blood & Blood-Forming Organs,Circulatory & Blood
+289,Coagulation defects and other blood disorders,Blood & Blood-Forming Organs,Circulatory & Blood
+290,Organic psychotic conditions / dementia,Mental Disorders,Neurological & Mental
+291,Organic psychotic conditions / dementia,Mental Disorders,Neurological & Mental
+292,Organic psychotic conditions / dementia,Mental Disorders,Neurological & Mental
+293,Organic psychotic conditions / dementia,Mental Disorders,Neurological & Mental
+294,Organic psychotic conditions / dementia,Mental Disorders,Neurological & Mental
+295,Schizophrenic disorders,Mental Disorders,Neurological & Mental
+296,Schizophrenic disorders,Mental Disorders,Neurological & Mental
+297,Schizophrenic disorders,Mental Disorders,Neurological & Mental
+298,Schizophrenic disorders,Mental Disorders,Neurological & Mental
+299,Schizophrenic disorders,Mental Disorders,Neurological & Mental
+3,Intestinal infectious diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+300,"Neurotic, anxiety, and personality disorders",Mental Disorders,Neurological & Mental
+301,"Neurotic, anxiety, and personality disorders",Mental Disorders,Neurological & Mental
+302,"Neurotic, anxiety, and personality disorders",Mental Disorders,Neurological & Mental
+303,"Neurotic, anxiety, and personality disorders",Mental Disorders,Neurological & Mental
+304,"Neurotic, anxiety, and personality disorders",Mental Disorders,Neurological & Mental
+305,Substance use disorders,Mental Disorders,Neurological & Mental
+306,Substance use disorders,Mental Disorders,Neurological & Mental
+307,Substance use disorders,Mental Disorders,Neurological & Mental
+308,Substance use disorders,Mental Disorders,Neurological & Mental
+309,Substance use disorders,Mental Disorders,Neurological & Mental
+31,Other bacterial diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+310,Other mental disorders,Mental Disorders,Neurological & Mental
+311,Other mental disorders,Mental Disorders,Neurological & Mental
+312,Other mental disorders,Mental Disorders,Neurological & Mental
+313,Other mental disorders,Mental Disorders,Neurological & Mental
+314,Other mental disorders,Mental Disorders,Neurological & Mental
+315,Other mental disorders,Mental Disorders,Neurological & Mental
+316,Other mental disorders,Mental Disorders,Neurological & Mental
+317,Other mental disorders,Mental Disorders,Neurological & Mental
+318,Other mental disorders,Mental Disorders,Neurological & Mental
+319,Other mental disorders,Mental Disorders,Neurological & Mental
+320,Inflammatory diseases of the central nervous system,Nervous System & Sense Organs,Neurological & Mental
+322,Inflammatory diseases of the central nervous system,Nervous System & Sense Organs,Neurological & Mental
+323,Inflammatory diseases of the central nervous system,Nervous System & Sense Organs,Neurological & Mental
+324,Inflammatory diseases of the central nervous system,Nervous System & Sense Organs,Neurological & Mental
+325,Inflammatory diseases of the central nervous system,Nervous System & Sense Organs,Neurological & Mental
+327,Inflammatory diseases of the central nervous system,Nervous System & Sense Organs,Neurological & Mental
+331,Hereditary and degenerative diseases of the CNS,Nervous System & Sense Organs,Neurological & Mental
+332,Hereditary and degenerative diseases of the CNS,Nervous System & Sense Organs,Neurological & Mental
+333,Hereditary and degenerative diseases of the CNS,Nervous System & Sense Organs,Neurological & Mental
+334,Hereditary and degenerative diseases of the CNS,Nervous System & Sense Organs,Neurological & Mental
+335,Hereditary and degenerative diseases of the CNS,Nervous System & Sense Organs,Neurological & Mental
+336,Hereditary and degenerative diseases of the CNS,Nervous System & Sense Organs,Neurological & Mental
+337,Hereditary and degenerative diseases of the CNS,Nervous System & Sense Organs,Neurological & Mental
+338,Hereditary and degenerative diseases of the CNS,Nervous System & Sense Organs,Neurological & Mental
+34,Other bacterial diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+340,Hereditary and degenerative diseases of the CNS,Nervous System & Sense Organs,Neurological & Mental
+341,Hereditary and degenerative diseases of the CNS,Nervous System & Sense Organs,Neurological & Mental
+342,Hereditary and degenerative diseases of the CNS,Nervous System & Sense Organs,Neurological & Mental
+343,Hereditary and degenerative diseases of the CNS,Nervous System & Sense Organs,Neurological & Mental
+344,Hereditary and degenerative diseases of the CNS,Nervous System & Sense Organs,Neurological & Mental
+345,Hereditary and degenerative diseases of the CNS,Nervous System & Sense Organs,Neurological & Mental
+346,Hereditary and degenerative diseases of the CNS,Nervous System & Sense Organs,Neurological & Mental
+347,Hereditary and degenerative diseases of the CNS,Nervous System & Sense Organs,Neurological & Mental
+348,Hereditary and degenerative diseases of the CNS,Nervous System & Sense Organs,Neurological & Mental
+349,Hereditary and degenerative diseases of the CNS,Nervous System & Sense Organs,Neurological & Mental
+35,Other bacterial diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+350,Peripheral nervous system disorders,Nervous System & Sense Organs,Neurological & Mental
+351,Peripheral nervous system disorders,Nervous System & Sense Organs,Neurological & Mental
+352,Peripheral nervous system disorders,Nervous System & Sense Organs,Neurological & Mental
+353,Peripheral nervous system disorders,Nervous System & Sense Organs,Neurological & Mental
+354,Peripheral nervous system disorders,Nervous System & Sense Organs,Neurological & Mental
+355,Peripheral nervous system disorders,Nervous System & Sense Organs,Neurological & Mental
+356,Peripheral nervous system disorders,Nervous System & Sense Organs,Neurological & Mental
+357,Peripheral nervous system disorders,Nervous System & Sense Organs,Neurological & Mental
+358,Peripheral nervous system disorders,Nervous System & Sense Organs,Neurological & Mental
+359,Peripheral nervous system disorders,Nervous System & Sense Organs,Neurological & Mental
+36,Other bacterial diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+360,Disorders of the eye and adnexa,Nervous System & Sense Organs,Neurological & Mental
+361,Disorders of the eye and adnexa,Nervous System & Sense Organs,Neurological & Mental
+362,Disorders of the eye and adnexa,Nervous System & Sense Organs,Neurological & Mental
+363,Disorders of the eye and adnexa,Nervous System & Sense Organs,Neurological & Mental
+364,Disorders of the eye and adnexa,Nervous System & Sense Organs,Neurological & Mental
+365,Disorders of the eye and adnexa,Nervous System & Sense Organs,Neurological & Mental
+365.44,Disorders of the eye and adnexa,Nervous System & Sense Organs,Neurological & Mental
+366,Disorders of the eye and adnexa,Nervous System & Sense Organs,Neurological & Mental
+368,Disorders of the eye and adnexa,Nervous System & Sense Organs,Neurological & Mental
+369,Disorders of the eye and adnexa,Nervous System & Sense Organs,Neurological & Mental
+370,Disorders of the eye and adnexa,Nervous System & Sense Organs,Neurological & Mental
+372,Disorders of the eye and adnexa,Nervous System & Sense Organs,Neurological & Mental
+373,Disorders of the eye and adnexa,Nervous System & Sense Organs,Neurological & Mental
+374,Disorders of the eye and adnexa,Nervous System & Sense Organs,Neurological & Mental
+375,Disorders of the eye and adnexa,Nervous System & Sense Organs,Neurological & Mental
+376,Disorders of the eye and adnexa,Nervous System & Sense Organs,Neurological & Mental
+377,Disorders of the eye and adnexa,Nervous System & Sense Organs,Neurological & Mental
+378,Disorders of the eye and adnexa,Nervous System & Sense Organs,Neurological & Mental
+379,Disorders of the eye and adnexa,Nervous System & Sense Organs,Neurological & Mental
+38,Other bacterial diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+380,Disorders of the ear and mastoid process,Nervous System & Sense Organs,Neurological & Mental
+381,Disorders of the ear and mastoid process,Nervous System & Sense Organs,Neurological & Mental
+382,Disorders of the ear and mastoid process,Nervous System & Sense Organs,Neurological & Mental
+383,Disorders of the ear and mastoid process,Nervous System & Sense Organs,Neurological & Mental
+384,Disorders of the ear and mastoid process,Nervous System & Sense Organs,Neurological & Mental
+385,Disorders of the ear and mastoid process,Nervous System & Sense Organs,Neurological & Mental
+386,Disorders of the ear and mastoid process,Nervous System & Sense Organs,Neurological & Mental
+387,Disorders of the ear and mastoid process,Nervous System & Sense Organs,Neurological & Mental
+388,Disorders of the ear and mastoid process,Nervous System & Sense Organs,Neurological & Mental
+389,Disorders of the ear and mastoid process,Nervous System & Sense Organs,Neurological & Mental
+39,Other bacterial diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+391,Hypertensive disease,Circulatory System,Circulatory & Blood
+394,Hypertensive disease,Circulatory System,Circulatory & Blood
+395,Hypertensive disease,Circulatory System,Circulatory & Blood
+396,Hypertensive disease,Circulatory System,Circulatory & Blood
+397,Hypertensive disease,Circulatory System,Circulatory & Blood
+398,Hypertensive disease,Circulatory System,Circulatory & Blood
+40,Other bacterial diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+401,Essential hypertension,Circulatory System,Circulatory & Blood
+402,Hypertensive heart disease,Circulatory System,Circulatory & Blood
+403,Hypertensive chronic kidney disease,Circulatory System,Circulatory & Blood
+404,Hypertensive heart and chronic kidney disease,Circulatory System,Circulatory & Blood
+405,Ischemic heart disease,Circulatory System,Circulatory & Blood
+41,Other bacterial diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+410,Acute myocardial infarction,Circulatory System,Circulatory & Blood
+411,Other acute and subacute ischemic heart disease,Circulatory System,Circulatory & Blood
+412,Old myocardial infarction,Circulatory System,Circulatory & Blood
+413,Angina pectoris,Circulatory System,Circulatory & Blood
+414,Other forms of chronic ischemic heart disease,Circulatory System,Circulatory & Blood
+415,Pulmonary circulation and other forms of heart disease,Circulatory System,Circulatory & Blood
+416,Pulmonary circulation and other forms of heart disease,Circulatory System,Circulatory & Blood
+417,Pulmonary circulation and other forms of heart disease,Circulatory System,Circulatory & Blood
+42,HIV infection,Infectious & Parasitic Diseases,Infectious & Parasitic
+420,Pulmonary circulation and other forms of heart disease,Circulatory System,Circulatory & Blood
+421,Pulmonary circulation and other forms of heart disease,Circulatory System,Circulatory & Blood
+422,Pulmonary circulation and other forms of heart disease,Circulatory System,Circulatory & Blood
+423,Pulmonary circulation and other forms of heart disease,Circulatory System,Circulatory & Blood
+424,Other diseases of endocardium (heart valves),Circulatory System,Circulatory & Blood
+425,Cardiomyopathy,Circulatory System,Circulatory & Blood
+426,Pulmonary circulation and other forms of heart disease,Circulatory System,Circulatory & Blood
+427,Cardiac dysrhythmias,Circulatory System,Circulatory & Blood
+428,Heart failure,Circulatory System,Circulatory & Blood
+429,Ill-defined heart disease,Circulatory System,Circulatory & Blood
+430,Cerebrovascular disease,Circulatory System,Circulatory & Blood
+431,Cerebrovascular disease,Circulatory System,Circulatory & Blood
+432,Cerebrovascular disease,Circulatory System,Circulatory & Blood
+433,Cerebrovascular disease,Circulatory System,Circulatory & Blood
+434,Occlusion of cerebral arteries (stroke),Circulatory System,Circulatory & Blood
+435,Cerebrovascular disease,Circulatory System,Circulatory & Blood
+436,Cerebrovascular disease,Circulatory System,Circulatory & Blood
+437,Cerebrovascular disease,Circulatory System,Circulatory & Blood
+438,Cerebrovascular disease,Circulatory System,Circulatory & Blood
+440,Atherosclerosis,Circulatory System,Circulatory & Blood
+441,"Diseases of arteries, arterioles, capillaries, veins, lymphatics",Circulatory System,Circulatory & Blood
+442,"Diseases of arteries, arterioles, capillaries, veins, lymphatics",Circulatory System,Circulatory & Blood
+443,Other peripheral vascular disease,Circulatory System,Circulatory & Blood
+444,Arterial embolism and thrombosis,Circulatory System,Circulatory & Blood
+445,"Diseases of arteries, arterioles, capillaries, veins, lymphatics",Circulatory System,Circulatory & Blood
+446,"Diseases of arteries, arterioles, capillaries, veins, lymphatics",Circulatory System,Circulatory & Blood
+447,"Diseases of arteries, arterioles, capillaries, veins, lymphatics",Circulatory System,Circulatory & Blood
+448,"Diseases of arteries, arterioles, capillaries, veins, lymphatics",Circulatory System,Circulatory & Blood
+451,Phlebitis and thrombophlebitis,Circulatory System,Circulatory & Blood
+452,"Diseases of arteries, arterioles, capillaries, veins, lymphatics",Circulatory System,Circulatory & Blood
+453,Other venous embolism and thrombosis,Circulatory System,Circulatory & Blood
+454,"Diseases of arteries, arterioles, capillaries, veins, lymphatics",Circulatory System,Circulatory & Blood
+455,"Diseases of arteries, arterioles, capillaries, veins, lymphatics",Circulatory System,Circulatory & Blood
+456,"Diseases of arteries, arterioles, capillaries, veins, lymphatics",Circulatory System,Circulatory & Blood
+457,"Diseases of arteries, arterioles, capillaries, veins, lymphatics",Circulatory System,Circulatory & Blood
+458,"Diseases of arteries, arterioles, capillaries, veins, lymphatics",Circulatory System,Circulatory & Blood
+459,"Diseases of arteries, arterioles, capillaries, veins, lymphatics",Circulatory System,Circulatory & Blood
+46,HIV infection,Infectious & Parasitic Diseases,Infectious & Parasitic
+460,Acute respiratory infections,Respiratory System,Respiratory
+461,Acute respiratory infections,Respiratory System,Respiratory
+462,Acute respiratory infections,Respiratory System,Respiratory
+463,Acute respiratory infections,Respiratory System,Respiratory
+464,Acute respiratory infections,Respiratory System,Respiratory
+465,Acute respiratory infections,Respiratory System,Respiratory
+466,Acute respiratory infections,Respiratory System,Respiratory
+47,HIV infection,Infectious & Parasitic Diseases,Infectious & Parasitic
+470,Acute respiratory infections,Respiratory System,Respiratory
+471,Acute respiratory infections,Respiratory System,Respiratory
+472,Acute respiratory infections,Respiratory System,Respiratory
+473,Acute respiratory infections,Respiratory System,Respiratory
+474,Acute respiratory infections,Respiratory System,Respiratory
+475,Acute respiratory infections,Respiratory System,Respiratory
+477,Acute respiratory infections,Respiratory System,Respiratory
+478,Acute respiratory infections,Respiratory System,Respiratory
+48,HIV infection,Infectious & Parasitic Diseases,Infectious & Parasitic
+480,Pneumonia and influenza,Respiratory System,Respiratory
+481,Pneumonia and influenza,Respiratory System,Respiratory
+482,Pneumonia and influenza,Respiratory System,Respiratory
+483,Pneumonia and influenza,Respiratory System,Respiratory
+484,Pneumonia and influenza,Respiratory System,Respiratory
+485,Pneumonia and influenza,Respiratory System,Respiratory
+486,"Pneumonia, organism unspecified",Respiratory System,Respiratory
+487,Pneumonia and influenza,Respiratory System,Respiratory
+49,HIV infection,Infectious & Parasitic Diseases,Infectious & Parasitic
+490,Chronic obstructive pulmonary disease and allied conditions,Respiratory System,Respiratory
+491,Chronic bronchitis,Respiratory System,Respiratory
+492,Emphysema,Respiratory System,Respiratory
+493,Asthma,Respiratory System,Respiratory
+494,Chronic obstructive pulmonary disease and allied conditions,Respiratory System,Respiratory
+495,Chronic obstructive pulmonary disease and allied conditions,Respiratory System,Respiratory
+496,"Chronic airway obstruction (COPD), NEC",Respiratory System,Respiratory
+5,Intestinal infectious diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+500,Pneumoconioses and other lung diseases due to external agents,Respiratory System,Respiratory
+501,Pneumoconioses and other lung diseases due to external agents,Respiratory System,Respiratory
+506,Pneumoconioses and other lung diseases due to external agents,Respiratory System,Respiratory
+507,Pneumonitis due to solids and liquids (aspiration pneumonia),Respiratory System,Respiratory
+508,Pneumoconioses and other lung diseases due to external agents,Respiratory System,Respiratory
+510,Other diseases of respiratory system,Respiratory System,Respiratory
+511,Other diseases of respiratory system,Respiratory System,Respiratory
+512,Other diseases of respiratory system,Respiratory System,Respiratory
+513,Other diseases of respiratory system,Respiratory System,Respiratory
+514,Other diseases of respiratory system,Respiratory System,Respiratory
+515,Other diseases of respiratory system,Respiratory System,Respiratory
+516,Other diseases of respiratory system,Respiratory System,Respiratory
+517,Other diseases of respiratory system,Respiratory System,Respiratory
+518,Other diseases of lung,Respiratory System,Respiratory
+519,Other diseases of respiratory system,Respiratory System,Respiratory
+52,Poliomyelitis and other viral CNS diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+520,"Diseases of oral cavity, salivary glands, and jaws",Digestive System,Digestive
+521,"Diseases of oral cavity, salivary glands, and jaws",Digestive System,Digestive
+522,"Diseases of oral cavity, salivary glands, and jaws",Digestive System,Digestive
+523,"Diseases of oral cavity, salivary glands, and jaws",Digestive System,Digestive
+524,"Diseases of oral cavity, salivary glands, and jaws",Digestive System,Digestive
+525,"Diseases of oral cavity, salivary glands, and jaws",Digestive System,Digestive
+526,"Diseases of oral cavity, salivary glands, and jaws",Digestive System,Digestive
+527,"Diseases of oral cavity, salivary glands, and jaws",Digestive System,Digestive
+528,"Diseases of oral cavity, salivary glands, and jaws",Digestive System,Digestive
+529,"Diseases of oral cavity, salivary glands, and jaws",Digestive System,Digestive
+53,Poliomyelitis and other viral CNS diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+530,Diseases of esophagus,Digestive System,Digestive
+531,Gastric ulcer,Digestive System,Digestive
+532,Duodenal ulcer,Digestive System,Digestive
+533,"Peptic ulcer, site unspecified",Digestive System,Digestive
+534,"Diseases of esophagus, stomach, and duodenum",Digestive System,Digestive
+535,Gastritis and duodenitis,Digestive System,Digestive
+536,"Diseases of esophagus, stomach, and duodenum",Digestive System,Digestive
+537,Other disorders of stomach and duodenum,Digestive System,Digestive
+538,"Diseases of esophagus, stomach, and duodenum",Digestive System,Digestive
+54,Poliomyelitis and other viral CNS diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+540,Acute appendicitis,Digestive System,Digestive
+541,Appendicitis,Digestive System,Digestive
+542,Appendicitis,Digestive System,Digestive
+543,Appendicitis,Digestive System,Digestive
+550,Inguinal hernia,Digestive System,Digestive
+551,Hernia of abdominal cavity,Digestive System,Digestive
+552,Hernia of abdominal cavity,Digestive System,Digestive
+553,Other hernia of abdominal cavity without obstruction,Digestive System,Digestive
+555,Crohn's disease (regional enteritis),Digestive System,Digestive
+556,Ulcerative colitis,Digestive System,Digestive
+557,Hernia of abdominal cavity,Digestive System,Digestive
+558,Hernia of abdominal cavity,Digestive System,Digestive
+560,Intestinal obstruction without mention of hernia,Digestive System,Digestive
+562,Diverticula of intestine,Digestive System,Digestive
+564,"Functional digestive disorders, NEC",Digestive System,Digestive
+565,Non-infective enteritis and colitis,Digestive System,Digestive
+566,Non-infective enteritis and colitis,Digestive System,Digestive
+567,Non-infective enteritis and colitis,Digestive System,Digestive
+568,Non-infective enteritis and colitis,Digestive System,Digestive
+569,Other disorders of intestine,Digestive System,Digestive
+57,Poliomyelitis and other viral CNS diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+570,"Other diseases of digestive system (liver, gallbladder, pancreas)",Digestive System,Digestive
+571,Chronic liver disease and cirrhosis,Digestive System,Digestive
+572,Liver abscess and sequelae of chronic liver disease,Digestive System,Digestive
+573,"Other diseases of digestive system (liver, gallbladder, pancreas)",Digestive System,Digestive
+574,Cholelithiasis (gallstones),Digestive System,Digestive
+575,Other disorders of gallbladder,Digestive System,Digestive
+576,"Other diseases of digestive system (liver, gallbladder, pancreas)",Digestive System,Digestive
+577,Diseases of pancreas,Digestive System,Digestive
+578,"Other diseases of digestive system (liver, gallbladder, pancreas)",Digestive System,Digestive
+579,"Other diseases of digestive system (liver, gallbladder, pancreas)",Digestive System,Digestive
+58,Viral diseases with exanthem,Infectious & Parasitic Diseases,Infectious & Parasitic
+580,Acute glomerulonephritis,Genitourinary System,Genitourinary
+581,Nephrotic syndrome,Genitourinary System,Genitourinary
+582,Chronic glomerulonephritis,Genitourinary System,Genitourinary
+583,"Nephritis and nephropathy, NEC",Genitourinary System,Genitourinary
+584,Acute kidney failure,Genitourinary System,Genitourinary
+585,Chronic kidney disease (CKD),Genitourinary System,Genitourinary
+586,"Renal failure, unspecified",Genitourinary System,Genitourinary
+588,"Nephritis, nephrotic syndrome, and nephrosis",Genitourinary System,Genitourinary
+590,Infections of kidney (pyelonephritis),Genitourinary System,Genitourinary
+591,"Nephritis, nephrotic syndrome, and nephrosis",Genitourinary System,Genitourinary
+592,Calculus of kidney and ureter (kidney stones),Genitourinary System,Genitourinary
+593,Other disorders of kidney and ureter,Genitourinary System,Genitourinary
+594,"Nephritis, nephrotic syndrome, and nephrosis",Genitourinary System,Genitourinary
+595,Cystitis,Genitourinary System,Genitourinary
+596,"Nephritis, nephrotic syndrome, and nephrosis",Genitourinary System,Genitourinary
+597,"Nephritis, nephrotic syndrome, and nephrosis",Genitourinary System,Genitourinary
+598,"Nephritis, nephrotic syndrome, and nephrosis",Genitourinary System,Genitourinary
+599,Other disorders of urethra and urinary tract,Genitourinary System,Genitourinary
+600,Hyperplasia of prostate (BPH),Genitourinary System,Genitourinary
+601,Other urinary diseases,Genitourinary System,Genitourinary
+602,Other urinary diseases,Genitourinary System,Genitourinary
+603,Other urinary diseases,Genitourinary System,Genitourinary
+604,Other urinary diseases,Genitourinary System,Genitourinary
+605,Other urinary diseases,Genitourinary System,Genitourinary
+607,Other urinary diseases,Genitourinary System,Genitourinary
+608,Other urinary diseases,Genitourinary System,Genitourinary
+61,Viral diseases with exanthem,Infectious & Parasitic Diseases,Infectious & Parasitic
+610,Benign mammary dysplasias,Genitourinary System,Genitourinary
+611,Diseases of male and female genital organs,Genitourinary System,Genitourinary
+614,Diseases of male and female genital organs,Genitourinary System,Genitourinary
+615,Diseases of male and female genital organs,Genitourinary System,Genitourinary
+616,Diseases of male and female genital organs,Genitourinary System,Genitourinary
+617,Diseases of male and female genital organs,Genitourinary System,Genitourinary
+618,Diseases of male and female genital organs,Genitourinary System,Genitourinary
+619,Diseases of male and female genital organs,Genitourinary System,Genitourinary
+620,Diseases of male and female genital organs,Genitourinary System,Genitourinary
+621,Diseases of male and female genital organs,Genitourinary System,Genitourinary
+622,Diseases of male and female genital organs,Genitourinary System,Genitourinary
+623,Diseases of male and female genital organs,Genitourinary System,Genitourinary
+624,Diseases of male and female genital organs,Genitourinary System,Genitourinary
+625,Diseases of male and female genital organs,Genitourinary System,Genitourinary
+626,Disorders of menstruation and menstrual cycle,Genitourinary System,Genitourinary
+627,Diseases of male and female genital organs,Genitourinary System,Genitourinary
+632,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+633,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+634,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+637,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+640,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+641,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+642,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+643,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+644,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+645,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+646,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+647,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+648,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+649,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+652,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+653,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+654,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+655,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+656,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+657,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+658,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+659,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+66,Viral diseases with exanthem,Infectious & Parasitic Diseases,Infectious & Parasitic
+660,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+661,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+663,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+664,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+665,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+669,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+670,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+671,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+674,"Complications of pregnancy, childbirth, and the puerperium",Pregnancy & Childbirth,"Pregnancy, Perinatal & Congenital"
+680,Carbuncle and furuncle,Skin & Subcutaneous Tissue,Skin & Integumentary
+681,Diseases of skin and subcutaneous tissue,Skin & Subcutaneous Tissue,Skin & Integumentary
+682,Other cellulitis and abscess,Skin & Subcutaneous Tissue,Skin & Integumentary
+683,Diseases of skin and subcutaneous tissue,Skin & Subcutaneous Tissue,Skin & Integumentary
+684,Diseases of skin and subcutaneous tissue,Skin & Subcutaneous Tissue,Skin & Integumentary
+685,Pilonidal cyst,Skin & Subcutaneous Tissue,Skin & Integumentary
+686,Other local infections of skin and subcutaneous tissue,Skin & Subcutaneous Tissue,Skin & Integumentary
+690,Diseases of skin and subcutaneous tissue,Skin & Subcutaneous Tissue,Skin & Integumentary
+691,Diseases of skin and subcutaneous tissue,Skin & Subcutaneous Tissue,Skin & Integumentary
+692,Diseases of skin and subcutaneous tissue,Skin & Subcutaneous Tissue,Skin & Integumentary
+693,Diseases of skin and subcutaneous tissue,Skin & Subcutaneous Tissue,Skin & Integumentary
+694,Diseases of skin and subcutaneous tissue,Skin & Subcutaneous Tissue,Skin & Integumentary
+695,Erythematous conditions,Skin & Subcutaneous Tissue,Skin & Integumentary
+696,Psoriasis and similar disorders,Skin & Subcutaneous Tissue,Skin & Integumentary
+697,Diseases of skin and subcutaneous tissue,Skin & Subcutaneous Tissue,Skin & Integumentary
+698,Diseases of skin and subcutaneous tissue,Skin & Subcutaneous Tissue,Skin & Integumentary
+7,Intestinal infectious diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+70,Arthropod-borne viral diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+700,Diseases of skin and subcutaneous tissue,Skin & Subcutaneous Tissue,Skin & Integumentary
+701,Diseases of skin and subcutaneous tissue,Skin & Subcutaneous Tissue,Skin & Integumentary
+702,Diseases of skin and subcutaneous tissue,Skin & Subcutaneous Tissue,Skin & Integumentary
+703,Diseases of skin and subcutaneous tissue,Skin & Subcutaneous Tissue,Skin & Integumentary
+704,Diseases of skin and subcutaneous tissue,Skin & Subcutaneous Tissue,Skin & Integumentary
+705,Diseases of skin and subcutaneous tissue,Skin & Subcutaneous Tissue,Skin & Integumentary
+706,Diseases of skin and subcutaneous tissue,Skin & Subcutaneous Tissue,Skin & Integumentary
+707,"Chronic ulcer of skin (pressure ulcer, diabetic foot ulcer)",Skin & Subcutaneous Tissue,Skin & Integumentary
+708,Diseases of skin and subcutaneous tissue,Skin & Subcutaneous Tissue,Skin & Integumentary
+709,Diseases of skin and subcutaneous tissue,Skin & Subcutaneous Tissue,Skin & Integumentary
+710,"Diffuse diseases of connective tissue (lupus, etc.)",Musculoskeletal & Connective Tissue,Musculoskeletal
+711,Arthropathy associated with infections,Musculoskeletal & Connective Tissue,Musculoskeletal
+712,Arthropathies and related disorders,Musculoskeletal & Connective Tissue,Musculoskeletal
+713,Arthropathies and related disorders,Musculoskeletal & Connective Tissue,Musculoskeletal
+714,Rheumatoid arthritis,Musculoskeletal & Connective Tissue,Musculoskeletal
+715,Osteoarthrosis and allied disorders,Musculoskeletal & Connective Tissue,Musculoskeletal
+716,Other and unspecified arthropathies,Musculoskeletal & Connective Tissue,Musculoskeletal
+717,Arthropathies and related disorders,Musculoskeletal & Connective Tissue,Musculoskeletal
+718,Arthropathies and related disorders,Musculoskeletal & Connective Tissue,Musculoskeletal
+719,Other and unspecified disorders of joint,Musculoskeletal & Connective Tissue,Musculoskeletal
+720,Ankylosing spondylitis and other inflammatory spondylopathies,Musculoskeletal & Connective Tissue,Musculoskeletal
+721,Spondylosis and allied disorders,Musculoskeletal & Connective Tissue,Musculoskeletal
+722,Intervertebral disc disorders,Musculoskeletal & Connective Tissue,Musculoskeletal
+723,Dorsopathies (back and spinal disorders),Musculoskeletal & Connective Tissue,Musculoskeletal
+724,Other and unspecified disorders of back,Musculoskeletal & Connective Tissue,Musculoskeletal
+725,Polymyalgia rheumatica,Musculoskeletal & Connective Tissue,Musculoskeletal
+726,Peripheral enthesopathies and allied syndromes,Musculoskeletal & Connective Tissue,Musculoskeletal
+727,"Other disorders of synovium, tendon, and bursa",Musculoskeletal & Connective Tissue,Musculoskeletal
+728,"Disorders of muscle, ligament, and fascia",Musculoskeletal & Connective Tissue,Musculoskeletal
+729,Other disorders of soft tissues,Musculoskeletal & Connective Tissue,Musculoskeletal
+730,"Rheumatism, excluding the back",Musculoskeletal & Connective Tissue,Musculoskeletal
+731,"Rheumatism, excluding the back",Musculoskeletal & Connective Tissue,Musculoskeletal
+732,"Rheumatism, excluding the back",Musculoskeletal & Connective Tissue,Musculoskeletal
+733,"Rheumatism, excluding the back",Musculoskeletal & Connective Tissue,Musculoskeletal
+734,"Rheumatism, excluding the back",Musculoskeletal & Connective Tissue,Musculoskeletal
+735,"Rheumatism, excluding the back",Musculoskeletal & Connective Tissue,Musculoskeletal
+736,"Rheumatism, excluding the back",Musculoskeletal & Connective Tissue,Musculoskeletal
+737,"Rheumatism, excluding the back",Musculoskeletal & Connective Tissue,Musculoskeletal
+738,"Rheumatism, excluding the back",Musculoskeletal & Connective Tissue,Musculoskeletal
+741,Congenital anomalies,Congenital Anomalies,"Pregnancy, Perinatal & Congenital"
+742,Congenital anomalies,Congenital Anomalies,"Pregnancy, Perinatal & Congenital"
+744,Congenital anomalies,Congenital Anomalies,"Pregnancy, Perinatal & Congenital"
+745,Congenital anomalies,Congenital Anomalies,"Pregnancy, Perinatal & Congenital"
+746,Congenital anomalies,Congenital Anomalies,"Pregnancy, Perinatal & Congenital"
+747,Congenital anomalies,Congenital Anomalies,"Pregnancy, Perinatal & Congenital"
+748,Congenital anomalies,Congenital Anomalies,"Pregnancy, Perinatal & Congenital"
+75,Arthropod-borne viral diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+750,Congenital anomalies,Congenital Anomalies,"Pregnancy, Perinatal & Congenital"
+751,Congenital anomalies,Congenital Anomalies,"Pregnancy, Perinatal & Congenital"
+752,Congenital anomalies,Congenital Anomalies,"Pregnancy, Perinatal & Congenital"
+753,Congenital anomalies,Congenital Anomalies,"Pregnancy, Perinatal & Congenital"
+754,Congenital anomalies,Congenital Anomalies,"Pregnancy, Perinatal & Congenital"
+755,Congenital anomalies,Congenital Anomalies,"Pregnancy, Perinatal & Congenital"
+756,Congenital anomalies,Congenital Anomalies,"Pregnancy, Perinatal & Congenital"
+757,Congenital anomalies,Congenital Anomalies,"Pregnancy, Perinatal & Congenital"
+758,Congenital anomalies,Congenital Anomalies,"Pregnancy, Perinatal & Congenital"
+759,Congenital anomalies,Congenital Anomalies,"Pregnancy, Perinatal & Congenital"
+78,Arthropod-borne viral diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+780,"General symptoms (alteration of consciousness, fever, etc.)",Symptoms & Ill-Defined Conditions,Symptoms & Ill-Defined
+781,Symptoms involving nervous and musculoskeletal systems,Symptoms & Ill-Defined Conditions,Symptoms & Ill-Defined
+782,Symptoms involving skin and integumentary systems,Symptoms & Ill-Defined Conditions,Symptoms & Ill-Defined
+783,"Symptoms concerning nutrition, metabolism, and development",Symptoms & Ill-Defined Conditions,Symptoms & Ill-Defined
+784,Symptoms involving head and neck,Symptoms & Ill-Defined Conditions,Symptoms & Ill-Defined
+785,Symptoms involving cardiovascular system,Symptoms & Ill-Defined Conditions,Symptoms & Ill-Defined
+786,Symptoms involving respiratory system and other chest symptoms,Symptoms & Ill-Defined Conditions,Symptoms & Ill-Defined
+787,Symptoms involving digestive system,Symptoms & Ill-Defined Conditions,Symptoms & Ill-Defined
+788,Symptoms involving urinary system,Symptoms & Ill-Defined Conditions,Symptoms & Ill-Defined
+789,Other symptoms involving abdomen and pelvis,Symptoms & Ill-Defined Conditions,Symptoms & Ill-Defined
+79,Arthropod-borne viral diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+790,Nonspecific findings on examination of blood,Symptoms & Ill-Defined Conditions,Symptoms & Ill-Defined
+791,Nonspecific findings on examination of urine,Symptoms & Ill-Defined Conditions,Symptoms & Ill-Defined
+792,"Symptoms involving digestive, urinary, and integumentary systems",Symptoms & Ill-Defined Conditions,Symptoms & Ill-Defined
+793,Nonspecific abnormal findings on radiology/imaging,Symptoms & Ill-Defined Conditions,Symptoms & Ill-Defined
+794,"Symptoms involving digestive, urinary, and integumentary systems",Symptoms & Ill-Defined Conditions,Symptoms & Ill-Defined
+795,Nonspecific abnormal histological and immunological findings,Symptoms & Ill-Defined Conditions,Symptoms & Ill-Defined
+796,Other nonspecific abnormal findings,Symptoms & Ill-Defined Conditions,Symptoms & Ill-Defined
+797,General symptoms and ill-defined conditions,Symptoms & Ill-Defined Conditions,Symptoms & Ill-Defined
+799,Other ill-defined and unknown causes of morbidity and mortality,Symptoms & Ill-Defined Conditions,Symptoms & Ill-Defined
+8,Intestinal infectious diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+800,Fracture of vault of skull,Injury & Poisoning,Injury & Poisoning
+801,Fracture of skull,Injury & Poisoning,Injury & Poisoning
+802,Fracture of skull,Injury & Poisoning,Injury & Poisoning
+803,Fracture of skull,Injury & Poisoning,Injury & Poisoning
+804,Fracture of skull,Injury & Poisoning,Injury & Poisoning
+805,Fracture of skull,Injury & Poisoning,Injury & Poisoning
+806,Fracture of skull,Injury & Poisoning,Injury & Poisoning
+807,Fracture of skull,Injury & Poisoning,Injury & Poisoning
+808,Fracture of skull,Injury & Poisoning,Injury & Poisoning
+810,Fracture of spine and trunk bones,Injury & Poisoning,Injury & Poisoning
+811,Fracture of spine and trunk bones,Injury & Poisoning,Injury & Poisoning
+812,Fracture of spine and trunk bones,Injury & Poisoning,Injury & Poisoning
+813,Fracture of spine and trunk bones,Injury & Poisoning,Injury & Poisoning
+814,Fracture of spine and trunk bones,Injury & Poisoning,Injury & Poisoning
+815,Fracture of spine and trunk bones,Injury & Poisoning,Injury & Poisoning
+816,Fracture of spine and trunk bones,Injury & Poisoning,Injury & Poisoning
+817,Fracture of spine and trunk bones,Injury & Poisoning,Injury & Poisoning
+82,Other viral diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+820,Fracture of neck of femur (hip fracture),Injury & Poisoning,Injury & Poisoning
+821,Fracture of upper limb,Injury & Poisoning,Injury & Poisoning
+822,Fracture of upper limb,Injury & Poisoning,Injury & Poisoning
+823,Fracture of tibia and fibula,Injury & Poisoning,Injury & Poisoning
+824,Fracture of ankle,Injury & Poisoning,Injury & Poisoning
+825,Fracture of tarsal and metatarsal bones,Injury & Poisoning,Injury & Poisoning
+826,Fracture of upper limb,Injury & Poisoning,Injury & Poisoning
+827,Fracture of upper limb,Injury & Poisoning,Injury & Poisoning
+831,Fracture of lower limb,Injury & Poisoning,Injury & Poisoning
+832,Fracture of lower limb,Injury & Poisoning,Injury & Poisoning
+833,Fracture of lower limb,Injury & Poisoning,Injury & Poisoning
+834,Fracture of lower limb,Injury & Poisoning,Injury & Poisoning
+835,Fracture of lower limb,Injury & Poisoning,Injury & Poisoning
+836,Fracture of lower limb,Injury & Poisoning,Injury & Poisoning
+837,Fracture of lower limb,Injury & Poisoning,Injury & Poisoning
+838,Fracture of lower limb,Injury & Poisoning,Injury & Poisoning
+839,Fracture of lower limb,Injury & Poisoning,Injury & Poisoning
+84,Other viral diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+840,Dislocation,Injury & Poisoning,Injury & Poisoning
+841,Dislocation,Injury & Poisoning,Injury & Poisoning
+842,Dislocation,Injury & Poisoning,Injury & Poisoning
+843,Dislocation,Injury & Poisoning,Injury & Poisoning
+844,Dislocation,Injury & Poisoning,Injury & Poisoning
+845,Dislocation,Injury & Poisoning,Injury & Poisoning
+846,Dislocation,Injury & Poisoning,Injury & Poisoning
+847,Dislocation,Injury & Poisoning,Injury & Poisoning
+848,Dislocation,Injury & Poisoning,Injury & Poisoning
+850,Concussion,Injury & Poisoning,Injury & Poisoning
+851,"Sprains, strains, and intracranial injury",Injury & Poisoning,Injury & Poisoning
+852,"Sprains, strains, and intracranial injury",Injury & Poisoning,Injury & Poisoning
+853,"Sprains, strains, and intracranial injury",Injury & Poisoning,Injury & Poisoning
+854,"Sprains, strains, and intracranial injury",Injury & Poisoning,Injury & Poisoning
+860,"Sprains, strains, and intracranial injury",Injury & Poisoning,Injury & Poisoning
+861,Injury to heart and lung,Injury & Poisoning,Injury & Poisoning
+862,"Sprains, strains, and intracranial injury",Injury & Poisoning,Injury & Poisoning
+863,Injury to gastrointestinal tract,Injury & Poisoning,Injury & Poisoning
+864,"Sprains, strains, and intracranial injury",Injury & Poisoning,Injury & Poisoning
+865,"Sprains, strains, and intracranial injury",Injury & Poisoning,Injury & Poisoning
+866,"Sprains, strains, and intracranial injury",Injury & Poisoning,Injury & Poisoning
+867,"Sprains, strains, and intracranial injury",Injury & Poisoning,Injury & Poisoning
+868,"Sprains, strains, and intracranial injury",Injury & Poisoning,Injury & Poisoning
+869,"Sprains, strains, and intracranial injury",Injury & Poisoning,Injury & Poisoning
+870,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+871,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+872,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+873,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+875,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+876,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+877,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+878,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+879,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+88,Other viral diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+880,Open wound of shoulder and upper arm,Injury & Poisoning,Injury & Poisoning
+881,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+882,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+883,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+884,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+885,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+886,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+890,Open wound of hip and thigh,Injury & Poisoning,Injury & Poisoning
+891,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+892,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+893,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+894,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+895,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+897,Internal organ injury,Injury & Poisoning,Injury & Poisoning
+9,Intestinal infectious diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+903,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+904,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+905,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+906,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+907,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+908,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+909,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+910,"Superficial injury of face, neck, and scalp",Injury & Poisoning,Injury & Poisoning
+911,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+912,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+913,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+914,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+915,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+916,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+917,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+918,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+919,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+920,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+921,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+922,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+923,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+924,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+927,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+928,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+930,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+933,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+934,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+935,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+936,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+939,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+94,Rickettsioses and other arthropod-borne diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+941,"Burn of face, head, and neck",Injury & Poisoning,Injury & Poisoning
+942,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+943,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+944,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+945,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+947,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+948,Burns classified by extent of body surface involved,Injury & Poisoning,Injury & Poisoning
+951,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+952,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+953,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+955,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+956,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+957,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+958,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+959,"Open wounds, burns, and superficial injuries",Injury & Poisoning,Injury & Poisoning
+96,Rickettsioses and other arthropod-borne diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+962,"Poisoning by drugs, medicinal and biological substances",Injury & Poisoning,Injury & Poisoning
+963,"Poisoning by drugs, medicinal and biological substances",Injury & Poisoning,Injury & Poisoning
+964,"Poisoning by drugs, medicinal and biological substances",Injury & Poisoning,Injury & Poisoning
+965,"Poisoning by analgesics, antipyretics, and antirheumatics",Injury & Poisoning,Injury & Poisoning
+966,"Poisoning by drugs, medicinal and biological substances",Injury & Poisoning,Injury & Poisoning
+967,"Poisoning by drugs, medicinal and biological substances",Injury & Poisoning,Injury & Poisoning
+968,"Poisoning by drugs, medicinal and biological substances",Injury & Poisoning,Injury & Poisoning
+969,Poisoning by psychotropic agents,Injury & Poisoning,Injury & Poisoning
+97,Rickettsioses and other arthropod-borne diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+970,Poisoning by central nervous system stimulants,Injury & Poisoning,Injury & Poisoning
+971,"Poisoning by drugs, medicinal and biological substances",Injury & Poisoning,Injury & Poisoning
+972,"Poisoning by drugs, medicinal and biological substances",Injury & Poisoning,Injury & Poisoning
+973,"Poisoning by drugs, medicinal and biological substances",Injury & Poisoning,Injury & Poisoning
+974,"Poisoning by drugs, medicinal and biological substances",Injury & Poisoning,Injury & Poisoning
+975,"Poisoning by drugs, medicinal and biological substances",Injury & Poisoning,Injury & Poisoning
+976,"Poisoning by drugs, medicinal and biological substances",Injury & Poisoning,Injury & Poisoning
+977,Poisoning by other and unspecified drugs and medicinal substances,Injury & Poisoning,Injury & Poisoning
+98,Rickettsioses and other arthropod-borne diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+980,"Poisoning by drugs, medicinal and biological substances",Injury & Poisoning,Injury & Poisoning
+982,"Poisoning by drugs, medicinal and biological substances",Injury & Poisoning,Injury & Poisoning
+983,"Poisoning by drugs, medicinal and biological substances",Injury & Poisoning,Injury & Poisoning
+986,"Poisoning by drugs, medicinal and biological substances",Injury & Poisoning,Injury & Poisoning
+987,"Poisoning by drugs, medicinal and biological substances",Injury & Poisoning,Injury & Poisoning
+988,"Poisoning by drugs, medicinal and biological substances",Injury & Poisoning,Injury & Poisoning
+989,"Poisoning by drugs, medicinal and biological substances",Injury & Poisoning,Injury & Poisoning
+99,Rickettsioses and other arthropod-borne diseases,Infectious & Parasitic Diseases,Infectious & Parasitic
+990,Complications of surgical and medical care,Injury & Poisoning,Injury & Poisoning
+991,Complications of surgical and medical care,Injury & Poisoning,Injury & Poisoning
+992,Complications of surgical and medical care,Injury & Poisoning,Injury & Poisoning
+994,Complications of surgical and medical care,Injury & Poisoning,Injury & Poisoning
+995,"Certain adverse effects NEC (anaphylaxis, allergy)",Injury & Poisoning,Injury & Poisoning
+996,"Complications of cardiac device, implant, and graft",Injury & Poisoning,Injury & Poisoning
+997,"Complications affecting specified body systems, NEC",Injury & Poisoning,Injury & Poisoning
+998,"Other complications of procedures, NEC",Injury & Poisoning,Injury & Poisoning
+999,"Complications of medical care, NEC",Injury & Poisoning,Injury & Poisoning
+E812,Transport accident,External Causes - Transport Accident,External Causes
+E813,Transport accident,External Causes - Transport Accident,External Causes
+E814,Transport accident,External Causes - Transport Accident,External Causes
+E815,Transport accident,External Causes - Transport Accident,External Causes
+E816,Transport accident,External Causes - Transport Accident,External Causes
+E817,Transport accident,External Causes - Transport Accident,External Causes
+E818,Transport accident,External Causes - Transport Accident,External Causes
+E819,Transport accident,External Causes - Transport Accident,External Causes
+E821,Transport accident,External Causes - Transport Accident,External Causes
+E822,Transport accident,External Causes - Transport Accident,External Causes
+E825,Transport accident,External Causes - Transport Accident,External Causes
+E826,Transport accident,External Causes - Transport Accident,External Causes
+E828,Transport accident,External Causes - Transport Accident,External Causes
+E829,Transport accident,External Causes - Transport Accident,External Causes
+E849,Transport accident,External Causes - Transport Accident,External Causes
+E850,Transport accident,External Causes - Transport Accident,External Causes
+E852,Transport accident,External Causes - Transport Accident,External Causes
+E853,Transport accident,External Causes - Transport Accident,External Causes
+E854,Transport accident,External Causes - Transport Accident,External Causes
+E855,Transport accident,External Causes - Transport Accident,External Causes
+E858,Transport accident,External Causes - Transport Accident,External Causes
+E861,Transport accident,External Causes - Transport Accident,External Causes
+E864,Transport accident,External Causes - Transport Accident,External Causes
+E865,Transport accident,External Causes - Transport Accident,External Causes
+E868,Transport accident,External Causes - Transport Accident,External Causes
+E870,Accidental poisoning,External Causes - Accidental Poisoning,Injury & Poisoning
+E876,Accidental poisoning,External Causes - Accidental Poisoning,Injury & Poisoning
+E878,Accidental poisoning,External Causes - Accidental Poisoning,Injury & Poisoning
+E879,Accidental poisoning,External Causes - Accidental Poisoning,Injury & Poisoning
+E880,Accidental falls and other accidents,External Causes - Accidental Injury,Injury & Poisoning
+E881,Accidental falls and other accidents,External Causes - Accidental Injury,Injury & Poisoning
+E882,Accidental falls and other accidents,External Causes - Accidental Injury,Injury & Poisoning
+E883,Accidental falls and other accidents,External Causes - Accidental Injury,Injury & Poisoning
+E884,Accidental falls and other accidents,External Causes - Accidental Injury,Injury & Poisoning
+E885,Accidental falls and other accidents,External Causes - Accidental Injury,Injury & Poisoning
+E886,Accidental falls and other accidents,External Causes - Accidental Injury,Injury & Poisoning
+E887,Accidental falls and other accidents,External Causes - Accidental Injury,Injury & Poisoning
+E888,Accidental falls and other accidents,External Causes - Accidental Injury,Injury & Poisoning
+E890,Accidental falls and other accidents,External Causes - Accidental Injury,Injury & Poisoning
+E892,Accidental falls and other accidents,External Causes - Accidental Injury,Injury & Poisoning
+E894,Accidental falls and other accidents,External Causes - Accidental Injury,Injury & Poisoning
+E900,Natural and environmental factors,External Causes - Natural/Environmental,External Causes
+E901,Natural and environmental factors,External Causes - Natural/Environmental,External Causes
+E904,Natural and environmental factors,External Causes - Natural/Environmental,External Causes
+E905,Natural and environmental factors,External Causes - Natural/Environmental,External Causes
+E906,Natural and environmental factors,External Causes - Natural/Environmental,External Causes
+E909,Natural and environmental factors,External Causes - Natural/Environmental,External Causes
+E912,Late effects of accidents,External Causes - Late Effects,External Causes
+E915,Late effects of accidents,External Causes - Late Effects,External Causes
+E916,Late effects of accidents,External Causes - Late Effects,External Causes
+E917,Late effects of accidents,External Causes - Late Effects,External Causes
+E918,Late effects of accidents,External Causes - Late Effects,External Causes
+E919,Late effects of accidents,External Causes - Late Effects,External Causes
+E920,Late effects of accidents,External Causes - Late Effects,External Causes
+E922,Late effects of accidents,External Causes - Late Effects,External Causes
+E924,Late effects of accidents,External Causes - Late Effects,External Causes
+E927,Late effects of accidents,External Causes - Late Effects,External Causes
+E928,Late effects of accidents,External Causes - Late Effects,External Causes
+E929,Late effects of accidents,External Causes - Late Effects,External Causes
+E930,Drugs and medicinal substances adverse effects,External Causes - Adverse Drug Effect,External Causes
+E931,Drugs and medicinal substances adverse effects,External Causes - Adverse Drug Effect,External Causes
+E932,Drugs and medicinal substances adverse effects,External Causes - Adverse Drug Effect,External Causes
+E933,Drugs and medicinal substances adverse effects,External Causes - Adverse Drug Effect,External Causes
+E934,Drugs and medicinal substances adverse effects,External Causes - Adverse Drug Effect,External Causes
+E935,Drugs and medicinal substances adverse effects,External Causes - Adverse Drug Effect,External Causes
+E936,Drugs and medicinal substances adverse effects,External Causes - Adverse Drug Effect,External Causes
+E937,Drugs and medicinal substances adverse effects,External Causes - Adverse Drug Effect,External Causes
+E938,Drugs and medicinal substances adverse effects,External Causes - Adverse Drug Effect,External Causes
+E939,Drugs and medicinal substances adverse effects,External Causes - Adverse Drug Effect,External Causes
+E941,Drugs and medicinal substances adverse effects,External Causes - Adverse Drug Effect,External Causes
+E942,Drugs and medicinal substances adverse effects,External Causes - Adverse Drug Effect,External Causes
+E943,Drugs and medicinal substances adverse effects,External Causes - Adverse Drug Effect,External Causes
+E944,Drugs and medicinal substances adverse effects,External Causes - Adverse Drug Effect,External Causes
+E945,Drugs and medicinal substances adverse effects,External Causes - Adverse Drug Effect,External Causes
+E946,Drugs and medicinal substances adverse effects,External Causes - Adverse Drug Effect,External Causes
+E947,Drugs and medicinal substances adverse effects,External Causes - Adverse Drug Effect,External Causes
+E949,Drugs and medicinal substances adverse effects,External Causes - Adverse Drug Effect,External Causes
+E950,Self-inflicted injury / suicide attempt,External Causes - Self-Inflicted,External Causes
+E955,Self-inflicted injury / suicide attempt,External Causes - Self-Inflicted,External Causes
+E956,Self-inflicted injury / suicide attempt,External Causes - Self-Inflicted,External Causes
+E965,Self-inflicted injury / suicide attempt,External Causes - Self-Inflicted,External Causes
+E966,Self-inflicted injury / suicide attempt,External Causes - Self-Inflicted,External Causes
+E968,Self-inflicted injury / suicide attempt,External Causes - Self-Inflicted,External Causes
+E980,Assault / homicide,External Causes - Assault,External Causes
+E987,Assault / homicide,External Causes - Assault,External Causes
+V01,Contact with/exposure to communicable diseases,Supplementary - Contact/Exposure,Supplementary Codes
+V02,Contact with/exposure to communicable diseases,Supplementary - Contact/Exposure,Supplementary Codes
+V03,Contact with/exposure to communicable diseases,Supplementary - Contact/Exposure,Supplementary Codes
+V06,Contact with/exposure to communicable diseases,Supplementary - Contact/Exposure,Supplementary Codes
+V07,Contact with/exposure to communicable diseases,Supplementary - Contact/Exposure,Supplementary Codes
+V08,Contact with/exposure to communicable diseases,Supplementary - Contact/Exposure,Supplementary Codes
+V09,Contact with/exposure to communicable diseases,Supplementary - Contact/Exposure,Supplementary Codes
+V10,Vaccination and inoculation,Supplementary - Preventive Care,Supplementary Codes
+V11,Vaccination and inoculation,Supplementary - Preventive Care,Supplementary Codes
+V12,Vaccination and inoculation,Supplementary - Preventive Care,Supplementary Codes
+V13,Vaccination and inoculation,Supplementary - Preventive Care,Supplementary Codes
+V14,Vaccination and inoculation,Supplementary - Preventive Care,Supplementary Codes
+V15,Vaccination and inoculation,Supplementary - Preventive Care,Supplementary Codes
+V16,Vaccination and inoculation,Supplementary - Preventive Care,Supplementary Codes
+V17,Vaccination and inoculation,Supplementary - Preventive Care,Supplementary Codes
+V18,Vaccination and inoculation,Supplementary - Preventive Care,Supplementary Codes
+V22,Potential health hazards related to personal/family history,Supplementary - Health History,Supplementary Codes
+V23,Potential health hazards related to personal/family history,Supplementary - Health History,Supplementary Codes
+V25,Potential health hazards related to personal/family history,Supplementary - Health History,Supplementary Codes
+V26,Potential health hazards related to personal/family history,Supplementary - Health History,Supplementary Codes
+V27,Potential health hazards related to personal/family history,Supplementary - Health History,Supplementary Codes
+V42,Persons with a condition influencing health status,Supplementary - Health Status,Supplementary Codes
+V43,Persons with a condition influencing health status,Supplementary - Health Status,Supplementary Codes
+V44,Persons with a condition influencing health status,Supplementary - Health Status,Supplementary Codes
+V45,Persons with a condition influencing health status,Supplementary - Health Status,Supplementary Codes
+V46,Persons with a condition influencing health status,Supplementary - Health Status,Supplementary Codes
+V49,Persons with a condition influencing health status,Supplementary - Health Status,Supplementary Codes
+V50,Persons encountering health services for specific procedures,Supplementary - Specific Procedures,Supplementary Codes
+V51,Persons encountering health services for specific procedures,Supplementary - Specific Procedures,Supplementary Codes
+V53,Persons encountering health services for specific procedures,Supplementary - Specific Procedures,Supplementary Codes
+V54,Persons encountering health services for specific procedures,Supplementary - Specific Procedures,Supplementary Codes
+V55,Persons encountering health services for specific procedures,Supplementary - Specific Procedures,Supplementary Codes
+V56,Persons encountering health services for specific procedures,Supplementary - Specific Procedures,Supplementary Codes
+V57,Persons encountering health services for specific procedures,Supplementary - Specific Procedures,Supplementary Codes
+V58,Persons encountering health services for specific procedures,Supplementary - Specific Procedures,Supplementary Codes
+V60,Rehabilitation and long-term care,Supplementary - Rehab/Long-term Care,Supplementary Codes
+V61,Rehabilitation and long-term care,Supplementary - Rehab/Long-term Care,Supplementary Codes
+V62,Rehabilitation and long-term care,Supplementary - Rehab/Long-term Care,Supplementary Codes
+V63,Rehabilitation and long-term care,Supplementary - Rehab/Long-term Care,Supplementary Codes
+V64,Rehabilitation and long-term care,Supplementary - Rehab/Long-term Care,Supplementary Codes
+V65,Rehabilitation and long-term care,Supplementary - Rehab/Long-term Care,Supplementary Codes
+V66,Rehabilitation and long-term care,Supplementary - Rehab/Long-term Care,Supplementary Codes
+V67,Rehabilitation and long-term care,Supplementary - Rehab/Long-term Care,Supplementary Codes
+V69,Rehabilitation and long-term care,Supplementary - Rehab/Long-term Care,Supplementary Codes
+V70,Persons encountering health services in other circumstances,Supplementary - Other Circumstances,Supplementary Codes
+V71,Persons encountering health services in other circumstances,Supplementary - Other Circumstances,Supplementary Codes
+V72,Persons encountering health services in other circumstances,Supplementary - Other Circumstances,Supplementary Codes
+V85,"Newborn, infant, and child examination",Supplementary - Newborn/Infant,Supplementary Codes
+V86,"Newborn, infant, and child examination",Supplementary - Newborn/Infant,Supplementary Codes
