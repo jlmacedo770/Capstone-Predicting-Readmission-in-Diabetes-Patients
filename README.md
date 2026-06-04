@@ -1,22 +1,22 @@
-### Capstone
-## Business Understanding
+## Capstone
+### Business Understanding
 The practice of risk stratification in healthcare refers to the categorization of patients into groups based on their likelihood of experiencing adverse events. Categorizing a patient's risk informs healthcare protocols such as treatment and follow-ups. In the data used for this exercise, we have individual hospitalization events (encounters) for patients with diabetes. Naturally, sicker patients will require more care (i.e. frequent encounters). 
 
 The aim of this exercise is to attempt to risk stratify patients based on their initial encounter and see if that risk stratification helps predict the likelihood of a patient being readmitted after their index hospitalization. We'll be using KMeans clustering to segment our initial encounters and assign them a risk level (low, medium, high) based on how much clinical resources their index visit consumed (i.e. days in hospital, number of procedures, number of lab tests, etc). Then we will assign that risk label to the subsequent encounters and assess different classification models to predict a binary outcome of readmission (Yes vs No). 
 
-## Data Set Information: 
+### Data Set Information: 
 The analysis used anonymized patient-level data from a publicly available dataset procured from Kaggle. This dataset includes demographic information, comorbidities, treatment history, and clinical readmission outcomes. The dataset is comprised of patient hospital visits (encounters) from diabetes patients across 130 US hospitals over the span of ten years. Sicker patients tend to have multiple encounters over the lifespan of their disease. As the goal was to risk stratify patients based on initial presentation and predict future readmission, the dataset was split into two subsets: initial encounters, and subsequent encounters. Initial encounters were used for the risk stratification and training of prediction models. The subsequent encounters were used to cross validate the performance of the prediction models.
 
 Data:https://www.kaggle.com/datasets/sulphatet/diabetes-130us-hospitals-for-years-19992008 
 
-## Data Preparation
+### Data Preparation
 Of the 50 features present in the dataset, there were some that contained a great deal of missing values: A1C, and Max Glucose. These were unfortunate as these are common indicators of diabetic regulation, but nonetheless had severely limited application given their missing values (83% and 94%, respectively). Weight was removed from the dataset for similar reasons. Additional features that held no bearing on patient stratification and outcome were also removed: Medical Specialty, and Payer Code. After the diagnoses codes were mapped to their "Broad Category" (a decision that was made to minimize feature count), three additional features had to be mapped against a dictionary to define the respective categorical values. The three features were admission source, admission type, and discharge disposition. Finally, numerical features were assessed for normality, and 'Age' was found to have outliers (patients <20 years old). Once the data was cleaned, we were prepared to move on to the clustering and modeling.
 
-## Why KMeans Clustering/Classification Models
+### Why KMeans Clustering/Classification Models
 Segmentation is the practice of dividing customers into groups based on similar attributes (i.e. demographics, use behaviors, etc) typically through an unsupervised learning algorithm. We will leverage the same practice to divide patients into groups based on initial presentation of their measurable features (i.e. number of diagnoses, age, etc). Each patient will be assigned a segment to assess their risk level. This can be used to inform treatment, referrals to ensure most experienced physicians treat, and followup protocols. 
 Like regression, supervised learning classification algorithms can predict outcomes. However, unlike regression models that return numerical values like a sales forecast, classification will yield a binary prediction. In our case, 'Yes' or 'No' for patient readmission after initial encounter. 
 
-## Findings
+### Findings
 Of the four models tested, Gradient Boosting was the best performing model. It achieved the highest internal test ROC-AUC of 0.6459 and the strongest cross-validation ROC-AUC of 0.6426. The cross validation was particularly significant as it confirmed that the result was stable and not a byproduct of random or lucky split. The model also led on precision (0.29) and accuracy (0.91), and more importantly, it held when applying the subsequent encounters as an external validation with comparable precision (0.40) and accuracy (0.83) suggesting reliability beyond the first-encounter training set.  
 The other three models assessed were Logistic Regression (LR), Random Forest (RF), and K-Nearest Neighbors (KNN). LR and RF were comparable in their cross-validation, 0.635 and 0.637 respectively. KNN underperformed (0.566) drastically. However, this was likely due to class imbalance as the initial encounter subset only held an 8.8% rate of readmission.
 
