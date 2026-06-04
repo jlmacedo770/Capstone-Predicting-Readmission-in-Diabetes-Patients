@@ -4,7 +4,7 @@ The practice of risk stratification in healthcare refers to the categorization o
 
 The aim of this exercise is to attempt to risk stratify patients based on their initial encounter and see if that risk stratification helps predict the likelihood of a patient being readmitted after their index hospitalization. We'll be using KMeans clustering to segment our initial encounters and assign them a risk level (low, medium, high) based on how much clinical resources their index visit consumed (i.e. days in hospital, number of procedures, number of lab tests, etc). Then we will assign that risk label to the subsequent encounters and assess different classification models to predict a binary outcome of readmission (Yes vs No). 
 
-### Data Set Information: 
+### Understanding the Data 
 The analysis used anonymized patient-level data from a publicly available dataset procured from Kaggle. This dataset includes demographic information, comorbidities, treatment history, and clinical readmission outcomes. The dataset is comprised of patient hospital visits (encounters) from diabetes patients across 130 US hospitals over the span of ten years. Sicker patients tend to have multiple encounters over the lifespan of their disease. As the goal was to risk stratify patients based on initial presentation and predict future readmission, the dataset was split into two subsets: initial encounters, and subsequent encounters. Initial encounters were used for the risk stratification and training of prediction models. The subsequent encounters were used to cross validate the performance of the prediction models.
 
 Data:https://www.kaggle.com/datasets/sulphatet/diabetes-130us-hospitals-for-years-19992008 
