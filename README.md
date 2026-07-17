@@ -1,4 +1,4 @@
-## Capstone
+## Capstone - Predicting Readmission in Diabetes Patients
 ### Business Understanding
 The practice of risk stratification in healthcare refers to the categorization of patients into groups based on their likelihood of experiencing adverse events. Categorizing a patient's risk informs healthcare protocols such as treatment and follow-ups. In the data used for this exercise, we have individual hospitalization events (encounters) for patients with diabetes. Naturally, sicker patients will require more care (i.e. frequent encounters). 
 
